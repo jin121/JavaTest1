@@ -1,4 +1,3 @@
-cd IdeaProjects/JavaTest1
 cd Exam1
 mvn install
 cd target
